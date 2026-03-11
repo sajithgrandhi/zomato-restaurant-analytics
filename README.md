@@ -1,20 +1,75 @@
-<div align="center">
+# Zomato Restaurant Data Analysis Dashboard
 
-## 🙏 Acknowledgement
-
-![University](https://img.shields.io/badge/University-Lovely%20Professional%20University-blue)
-![Mentor](https://img.shields.io/badge/Mentor-Ms.%20Madhu%20Bala-success)
-![Tool](https://img.shields.io/badge/Built%20With-Power%20BI-yellow)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-
-</div>
+`University` **Lovely Professional University**
+`Built With` **Power BI**
+`Project` **Completed**
 
 ---
 
-I would like to express my sincere gratitude to the **Lovely School of Computer Science, Lovely Professional University**, for providing the necessary academic resources, technical infrastructure, and a supportive learning environment that made this project possible.
+## Project Overview
 
-I am especially thankful to **Ms. Madhu Bala**, my faculty mentor, for her valuable guidance, continuous encouragement, and insightful feedback throughout the course of this project. Her support and direction played a significant role in shaping the analysis, dashboard design, and overall completion of the project.
+This project analyzes Zomato restaurant data and presents insights through an interactive Power BI dashboard. The dashboard highlights restaurant distribution, pricing patterns, customer ratings, and cuisine preferences across different locations. The aim is to transform raw data into clear and meaningful visual insights.
 
-I would also like to extend my appreciation to my friends and classmates for their cooperation, constructive discussions, and support during the data preprocessing, analysis, and **Power BI dashboard development** phases.
+## Dashboard Preview
 
-Finally, I would like to thank my family for their constant encouragement, patience, and moral support, which kept me motivated and focused throughout the successful completion of this project.
+### Dashboard View 1
+<img width="1210" height="668" alt="image" src="https://github.com/user-attachments/assets/cec3b3bb-408d-4029-afb6-2b0e5b694574" />
+
+### Dashboard View 2
+
+<img width="1199" height="672" alt="image" src="https://github.com/user-attachments/assets/e163d3a6-0026-42cc-a9f7-c1671a5aa3ab" />
+
+
+## Tools and Technologies Used
+
+* Power BI
+* CSV Dataset
+* Data Cleaning
+* Data Visualization
+* DAX (Data Analysis Expressions)
+
+## Dataset Information
+
+The dataset contains details about restaurants listed on Zomato, including:
+
+* Restaurant Name
+* Country
+* City
+* Cuisine Type
+* Average Cost for Two
+* Currency
+* Restaurant Rating
+* Number of Votes
+
+## Dashboard Features
+
+The Power BI dashboard includes:
+
+* KPI Cards for key metrics
+* Bar Charts for comparisons
+* Donut Charts for category distribution
+* Map visualization for restaurant locations
+* Filters and slicers for interactive analysis
+
+## Key Insights
+
+* Restaurant distribution across different countries and cities
+* Relationship between ratings and number of votes
+* Popular cuisine types among customers
+* Pricing trends across restaurants
+
+## Repository Files
+
+* **zomato.csv** – Dataset used for analysis
+* **zomato-restaurant-dashboard.pbix** – Power BI dashboard file
+* **README.md** – Project documentation
+
+## Learning Outcomes
+
+* Data cleaning and preparation
+* Building dashboards using Power BI
+* Creating visual insights from real-world data
+
+## Acknowledgement
+
+This project was developed as part of an academic learning experience at Lovely Professional University to practice data analysis and dashboard development using Power BI.
