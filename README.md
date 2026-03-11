@@ -1,8 +1,9 @@
 # Zomato Restaurant Data Analysis Dashboard
 
-`University` **Lovely Professional University**
-`Built With` **Power BI**
-`Project` **Completed**
+
+![University](https://img.shields.io/badge/University-Lovely%20Professional%20University-blue?style=for-the-badge)
+![Built With](https://img.shields.io/badge/Built%20With-Power%20BI-yellow?style=for-the-badge)
+![Project](https://img.shields.io/badge/Project-Completed-green?style=for-the-badge)
 
 ---
 
